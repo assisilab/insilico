@@ -5,8 +5,6 @@ insilico
 
 `insilico` is a Computational Neuroscience simulation library written in C++.
 
-`insilico` encourages ready-to-start approach for quick setup of simulation environment, without hindering programmers time and focus from intended experiment.
-
 Library homepage: http://insilico-lib.github.io/insilico/
 
 Download insilico's Source
